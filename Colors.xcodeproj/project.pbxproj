@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E292750520F9975B0058EDD9 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E292750420F9975B0058EDD9 /* ColorDetailViewController.swift */; };
 		FE9D18D11F198B5B00A33821 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9D18D01F198B5B00A33821 /* AppDelegate.swift */; };
 		FE9D18D61F198B5B00A33821 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE9D18D41F198B5B00A33821 /* Main.storyboard */; };
 		FE9D18D81F198B5B00A33821 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE9D18D71F198B5B00A33821 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E292750420F9975B0058EDD9 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 		FE9D18CD1F198B5B00A33821 /* Colors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Colors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE9D18D01F198B5B00A33821 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FE9D18D51F198B5B00A33821 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				FE9D18DC1F198B5B00A33821 /* Info.plist */,
 				FE9D18FE1F198BC600A33821 /* ColorsViewController.swift */,
 				FE9D19021F199A7D00A33821 /* Color.swift */,
+				E292750420F9975B0058EDD9 /* ColorDetailViewController.swift */,
 			);
 			path = Colors;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				FE9D18FF1F198BC600A33821 /* ColorsViewController.swift in Sources */,
 				FE9D18D11F198B5B00A33821 /* AppDelegate.swift in Sources */,
 				FE9D19031F199A7D00A33821 /* Color.swift in Sources */,
+				E292750520F9975B0058EDD9 /* ColorDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
